@@ -1,2 +1,32 @@
-# todo-app-with-localstorage
-A lightweight To-Do app built with HTML, CSS, and JavaScript that stores tasks in local storage so data remains saved even after refresh
+# 📝 To-Do App
+
+A simple and clean To-Do application built using HTML, CSS, and JavaScript.
+
+This app helps users manage daily tasks easily with data persistence using localStorage.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ❌ Delete tasks
+- 💾 Data saved in browser (localStorage)
+- 🔄 Data remains after refresh
+- 📱 Simple and responsive UI
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- localStorage API
+
+---
+
+## 📦 How to Use
+
+1. Clone the repository
+```bash
+git clone https://github.com/Nasar-dev/todo-app.git
