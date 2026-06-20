@@ -26,8 +26,5 @@ This app helps users manage daily tasks easily with data persistence using local
 
 ---
 
-## 📦 How to Use
-
-1. Clone the repository
-```bash
-git clone https://github.com/Nasar-dev/todo-app.git
+## Live Demo
+https://nasar-dev.github.io/todo-app-with-localstorage/
