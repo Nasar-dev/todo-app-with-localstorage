@@ -26,5 +26,5 @@ This app helps users manage daily tasks easily with data persistence using local
 
 ---
 
-## Live Demo
+## 🔗 Live Demo
 https://nasar-dev.github.io/todo-app-with-localstorage/
