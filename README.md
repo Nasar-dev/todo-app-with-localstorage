@@ -1,5 +1,6 @@
 # 📝 To-Do App
 
+![To-Do App Banner](./todo-banner.png)
 A simple and clean To-Do application built using HTML, CSS, and JavaScript.
 
 This app helps users manage daily tasks easily with data persistence using localStorage.
