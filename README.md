@@ -1,4 +1,4 @@
-# 📝 To-Do App
+# To-Do App
 
 ![To-Do App Banner](./todo-banner.png)
 A simple and clean To-Do application built using HTML, CSS, and JavaScript.
@@ -7,17 +7,17 @@ This app helps users manage daily tasks easily with data persistence using local
 
 ---
 
-## 🚀 Features
+## Features
 
-- ➕ Add new tasks
-- ❌ Delete tasks
-- 💾 Data saved in browser (localStorage)
-- 🔄 Data remains after refresh
-- 📱 Simple and responsive UI
+-  Add new tasks
+-  Delete tasks
+-  Data saved in browser (localStorage)
+-  Data remains after refresh
+-  Simple and responsive UI
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -26,5 +26,5 @@ This app helps users manage daily tasks easily with data persistence using local
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 https://nasar-dev.github.io/todo-app-with-localstorage/
